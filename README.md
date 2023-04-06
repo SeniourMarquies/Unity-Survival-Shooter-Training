@@ -22,6 +22,6 @@ Unity version 2017.1.1f1 and further
 
 ## Will be upgraded
 
--[x] 01. Spawn Manager
--[x] 02. Multiple Guns
--[x] 03. Multiple Levels
+- [x] 01. Spawn Manager
+- [x] 02. Multiple Guns
+- [x] 03. Multiple Levels
