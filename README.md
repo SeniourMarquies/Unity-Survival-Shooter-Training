@@ -1,7 +1,6 @@
 # Survival-shooter-unity
-Survival shooter tutorial from https://unity3d.com/ru/learn/tutorials/projects/survival-shooter-tutorial
-
-Unity version 2017.1.1f1
+Survival shooter tutorial from unity learn platform. Yet, this training content is deprecated.
+Unity version 2017.1.1f1 and further
 
 ## Training Day Phases
 
@@ -23,6 +22,6 @@ Unity version 2017.1.1f1
 
 ## Will be upgraded
 
--[] 01. Spawn Manager
--[] 02. Multiple Guns
--[] 03. Multiple Levels
+-[x] 01. Spawn Manager
+-[x] 02. Multiple Guns
+-[x] 03. Multiple Levels
